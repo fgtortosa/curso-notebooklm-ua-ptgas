@@ -1,46 +1,92 @@
-# Mini Curso: Uso de la inteligencia artificial generativa en la Universidad de Alicante. Gestión administrativa del PTGAS
+# Uso de NotebookLM para Proyectos de Investigación
 
-Supuesto práctico: Usando  Google NotebookLM como fuente de información para la convocatoria de Proyectos de Generación de Conocimiento
+Este repositorio contiene materiales de apoyo para el uso de NotebookLM en el análisis y gestión de convocatorias de proyectos de investigación de la Agencia Estatal de Investigación.
 
+## Contenido
 
-## Introducción
+- **Presentaciones**:
+  - Fuentes: 
+    - [Versión Markdown](presentacion/Fuentes.md) 
+    - [Versión PDF](presentacion/Fuentes.pdf) 📄
+  - Prompts: 
+    - [Versión Markdown](presentacion/Prompts.md) 
+    - [Versión PDF](presentacion/Prompts.pdf) 📄
 
-Este repositorio contiene los materiales y guías para el mini curso dirigido al personal administrativo de la Universidad de Alicante sobre el uso de NotebookLM de Google como herramienta de consulta para normativas legales relacionadas con convocatorias de proyectos de investigación.
+- **Documentos**:
+  - [Enlaces](documentos/Enlaces.md): Recopilación de fuentes y documentos relevantes para las convocatorias 2023-2024
 
-El curso se centra específicamente en las convocatorias de Proyectos de Generación de Conocimiento, ayudas fundamentales para el personal investigador de la universidad.
+## Fuentes en NotebookLM
 
-## Objetivos del Curso
+NotebookLM admite diversos formatos de entrada:
 
-- Familiarizar al personal administrativo con la herramienta NotebookLM de Google
-- Enseñar técnicas eficientes de consulta de normativas legales mediante IA
-- Proporcionar conocimiento práctico sobre las convocatorias de Proyectos de Generación de Conocimiento
-- Mejorar la eficiencia en la gestión administrativa de proyectos de investigación
+- Documentos y presentaciones de Google Drive
+- Archivos PDF, Texto y Markdown
+- URLs web y contenido web
+- Videos de YouTube (públicos)
+- Archivos de audio
+- Texto copiado y pegado
 
-## Herramienta NotebookLM
+**Consideraciones importantes**:
+- Cada fuente puede contener hasta 500,000 palabras o 200MB
+- Las fuentes de Google Drive se sincronizan manualmente
+- Para PDFs con problemas, verificar la calidad del documento
+- El contenido web se limita a texto visible (sin imágenes, videos o páginas anidadas)
 
-[NotebookLM](https://notebooklm.google.com/) es una herramienta de Google basada en IA que permite:
+Para más detalles, consulte la [presentación completa sobre Fuentes](presentacion/Fuentes.md).
 
-- Cargar documentos y normativas para su análisis
-- Realizar consultas en lenguaje natural sobre el contenido
-- Generar resúmenes y extraer información clave
-- Comparar diferentes versiones de normativas
+## Guía de Prompts Efectivos
 
-## Contenido del Repositorio
+### Principios básicos
 
-- **Fuentes**: Instrucciones sobre cómo añadir información al NotebookLM, limitaciones, tipos de documentos y operativa.
-  - [Versión Markdown](presentacion/Fuentes.md)
-  - [Versión PDF](presentacion/Fuentes.pdf)
-- **Prompts**: Ejemplos de consultas efectivas para interactuar con los documentos cargados.
-  - [Versión Markdown](presentacion/Prompts.md)
-  - [Versión PDF](presentacion/Prompts.pdf)
-- **Documentación**: Normativas y convocatorias oficiales de los Proyectos de Generación de Conocimiento.
-  - [Enlaces a convocatorias oficiales](documentos/Enlaces.md)
+1. **Sé específico y detallado** en tus solicitudes
+2. **Proporciona contexto** relevante 
+3. **Estructura tus solicitudes** con viñetas o numeración
+4. **Indica el formato deseado** para la respuesta
+5. **Solicita precisión en las fuentes** cuando sea necesario
+6. **Ajusta el nivel de detalle** según tus necesidades
+7. **Realiza preguntas de seguimiento** para profundizar
+8. **Define el tono y la audiencia** para comunicaciones específicas
+9. **Limita el alcance** para obtener respuestas manejables
 
-## Material Complementario
+### Tipos de prompts
 
-- Guías paso a paso para la configuración inicial de NotebookLM
-- Ejemplos prácticos de consulta de normativas específicas
-- Plantillas para la gestión administrativa de proyectos
+- Análisis Comparativo
+- Consulta Informativa
+- Aclaración Conceptual
+- Generación de Documentos
+- Planificación Temporal
+- Diseño de Contenidos
+- Análisis de Requisitos
+- Recomendaciones y Guías
+- Análisis Financiero
+
+Para ejemplos concretos de cada tipo, consulte la [guía completa de Prompts](presentacion/Prompts.md).
+
+## Documentos de referencia
+
+### Convocatoria 2024
+- [Convocatoria oficial](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2024/convocatoria)
+- [Orden de convocatoria](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/801943/document/1174086)
+- [Ficha de la convocatoria](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatorias/801943)
+- [Publicación BOE](https://www.boe.es/boe/dias/2024/12/12/pdfs/BOE-B-2024-45527.pdf)
+- [Video explicativo](https://www.youtube.com/watch?v=h5TjnwxJHw4&t=61s)
+
+### Convocatoria 2023
+- [Convocatoria oficial](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2023)
+- [Orden de bases](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2023/orden-bases)
+- [Tramitación de la ayuda](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2023/tramitacion-ayuda-0)
+- [Resolución de concesión](https://www.aei.gob.es/sites/default/files/convocatory_info/2024-07/PID2023-PRP-Contratos-Predoctorales.pdf)
+
+## Cómo usar este repositorio
+
+1. Consulta la documentación sobre [fuentes](presentacion/Fuentes.md) para entender qué materiales puedes incorporar a NotebookLM
+2. Revisa la guía de [prompts](presentacion/Prompts.md) para aprender a formular preguntas efectivas
+3. Utiliza los [enlaces](documentos/Enlaces.md) como punto de partida para añadir documentos relevantes a tu notebook
+4. Experimenta con los ejemplos de prompts para realizar consultas específicas sobre las convocatorias
+
+## Contribuciones
+
+Si deseas contribuir con ejemplos adicionales, mejoras en la documentación o nuevos enlaces relevantes, por favor crea un pull request o contacta con los mantenedores del repositorio.
 
 ## Equipo Docente
 
