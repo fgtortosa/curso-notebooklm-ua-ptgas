@@ -1,7 +1,6 @@
 ----
 
 marp: true
-1. Crear un notebook e incorporar sus fuentes
 
 ----
 
@@ -23,7 +22,7 @@ Cada notebook tiene sus propias fuentes, **NotebookLM** actualmente soporta:
 **Limitaciones generales:**
 - Cada fuente puede contener hasta 500,000 palabras o hasta 200MB para archivos cargados
 - **Google Docs/Slides**: NotebookLM crea una copia estática. Los cambios en el documento original requieren sincronización manual con el botón "Click to sync with Drive".
-- **PDFs**: A partir de septiembre 2024, se soportarán PDFs que contienen solo imágenes. La carga de PDFs a través de Drive no está soportada actualmente.
+- **PDFs**: A partir de septiembre 2024, se soportarán PDFs que contienen solo imágenes. La carga de PDFs a través de Drive no está soportada actualmente. Si tenemos un error al incorporar un fichero pdf se debe verificar la calidad del mismo
 - **URLs web**: Solo se extrae el contenido de texto visible. No se importan imágenes, videos o páginas anidadas. No funciona con páginas con paywall o que hayan deshabilitado el web scraping.
 
 ---
@@ -31,11 +30,9 @@ Cada notebook tiene sus propias fuentes, **NotebookLM** actualmente soporta:
 
 ## Añadir fuentes 
 
-Google drive (documentos y presentaciones)
-
-Enlaces (sitios web y vídeos)
-
-Pegar texto
+- Google drive (documentos y presentaciones)
+- Enlaces (sitios web y vídeos)
+- Pegar texto
 
 ---
 
@@ -64,3 +61,4 @@ El notebook tiene titulo y un texto de resumen
 - La fuente ya esta incorporada al notebook
 - Ha sido transformada a texto.
 - Aparece un resumen y un índice de temas clave
+- Se puede ver el detalle de cualquiera de los temas clave
