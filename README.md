@@ -1,5 +1,5 @@
 # Uso de NotebookLM para el PTGAS de la Universidad de Alicante
-Este repositorio contiene materiales para el uso de NotebookLM como herramienta de apoyo para el personal administrativo de la Universidad de Alicante
+Este repositorio contiene materiales para el uso de[NotebookLM](https://notebooklm.google.com) como herramienta de apoyo para el personal administrativo de la Universidad de Alicante
 
 ## Contenido
 
