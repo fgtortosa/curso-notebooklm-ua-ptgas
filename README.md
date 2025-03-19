@@ -1,6 +1,5 @@
-# Uso de NotebookLM para Proyectos de Investigación
-
-Este repositorio contiene materiales de apoyo para el uso de NotebookLM en el análisis y gestión de convocatorias de proyectos de investigación de la Agencia Estatal de Investigación.
+# Uso de NotebookLM para el PTGAS de la Universidad de Alicante
+Este repositorio contiene materiales para el uso de NotebookLM como herramienta de apoyo para el personal administrativo de la Universidad de Alicante
 
 ## Contenido
 
