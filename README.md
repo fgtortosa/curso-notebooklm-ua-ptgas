@@ -12,7 +12,8 @@ Este repositorio contiene materiales para el uso de[NotebookLM](https://notebook
     - [Versión PDF](presentacion/Prompts.pdf) 📄
 
 - **Documentos**:
-  - [Enlaces](documentos/Enlaces.md): Recopilación de fuentes y documentos relevantes para las convocatorias 2023-2024
+  - [Enlaces](presentacion/Enlaces.md): Recopilación de fuentes y documentos relevantes para las convocatorias 2023-2024
+  - [Tipos de documentos aceptados en Notebooklm](presentacion/Tipos-de-documento.md): Tipos de documentos aceptados por Notebook, formatos aceptados y recomendaciones generales
 
 ## Fuentes en NotebookLM
 
@@ -32,6 +33,23 @@ NotebookLM admite diversos formatos de entrada:
 - El contenido web se limita a texto visible (sin imágenes, videos o páginas anidadas)
 
 Para más detalles, consulte la [presentación completa sobre Fuentes](presentacion/Fuentes.md).
+
+## Documentos de referencia
+
+### Convocatoria 2024
+- [Convocatoria oficial](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2024/convocatoria)
+- [Orden de convocatoria](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/801943/document/1174086)
+- [Ficha de la convocatoria](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatorias/801943)
+- [Publicación BOE](https://www.boe.es/boe/dias/2024/12/12/pdfs/BOE-B-2024-45527.pdf)
+- [Video explicativo](https://www.youtube.com/watch?v=h5TjnwxJHw4&t=61s)
+
+### Convocatoria 2023
+- [Convocatoria oficial](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2023)
+- [Orden de bases](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2023/orden-bases)
+- [Tramitación de la ayuda](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2023/tramitacion-ayuda-0)
+- [Resolución de concesión](https://www.aei.gob.es/sites/default/files/convocatory_info/2024-07/PID2023-PRP-Contratos-Predoctorales.pdf)
+- [Video explicativo](https://www.youtube.com/watch?v=HpmBOKVA8pM)
+
 
 ## Guía de Prompts Efectivos
 
@@ -61,20 +79,6 @@ Para más detalles, consulte la [presentación completa sobre Fuentes](presentac
 
 Para ejemplos concretos de cada tipo, consulte la [guía completa de Prompts](presentacion/Prompts.md).
 
-## Documentos de referencia
-
-### Convocatoria 2024
-- [Convocatoria oficial](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2024/convocatoria)
-- [Orden de convocatoria](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatoria/801943/document/1174086)
-- [Ficha de la convocatoria](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatorias/801943)
-- [Publicación BOE](https://www.boe.es/boe/dias/2024/12/12/pdfs/BOE-B-2024-45527.pdf)
-- [Video explicativo](https://www.youtube.com/watch?v=h5TjnwxJHw4&t=61s)
-
-### Convocatoria 2023
-- [Convocatoria oficial](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2023)
-- [Orden de bases](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2023/orden-bases)
-- [Tramitación de la ayuda](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2023/tramitacion-ayuda-0)
-- [Resolución de concesión](https://www.aei.gob.es/sites/default/files/convocatory_info/2024-07/PID2023-PRP-Contratos-Predoctorales.pdf)
 
 ## Cómo usar este repositorio
 
