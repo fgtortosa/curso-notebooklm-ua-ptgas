@@ -42,6 +42,7 @@ Para más detalles, consulte la [presentación completa sobre Fuentes](presentac
 - [Ficha de la convocatoria](https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocatorias/801943)
 - [Publicación BOE](https://www.boe.es/boe/dias/2024/12/12/pdfs/BOE-B-2024-45527.pdf)
 - [Video explicativo](https://www.youtube.com/watch?v=h5TjnwxJHw4&t=61s)
+- [Presentación Powerpoint](https://www.udg.edu/ca/Portals/6/UdGEventsNews/5921/Media/Document/Presentacion_de_PowerPoint_AEI.pdf)
 
 ### Convocatoria 2023
 - [Convocatoria oficial](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2023)

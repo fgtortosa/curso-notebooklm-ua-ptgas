@@ -14,7 +14,7 @@ marp: true
 
 ---
 1. **Sé específico y detallado**: Cuanto más concreto seas, mejores serán las respuestas.
-   - ❌ "Háblame de los presupuestos"
+   - ❌ "Háblame de las categorías de gasto"
    - ✅ "Describe las categorías de gasto permitidas en la convocatoria 2024 para proyectos de investigación"
 
 2. **Proporciona contexto**: Explica brevemente el propósito o situación para que la IA comprenda mejor tu necesidad.
@@ -57,7 +57,8 @@ marp: true
    - *Ejemplo*: "Háblame sobre las diferencias reseñables entre las convocatorias..."
 
 2. **[Consulta Informativa](#consulta-informativa)**: Preguntas directas sobre datos específicos contenidos en la documentación.
-   - *Ejemplo*: "Quienes son los órganos competentes para resolución..."
+   - *Ejemplo*: "Quienes son los órganos competentes para la resolución..."
+   - *Ejemplo*: "Por favor, indica que proyectos de la Universidad de Alicante han recibido financiación"
 
 3. **[Aclaración Conceptual](#aclaración-conceptual)**: Peticiones de explicación detallada sobre términos y conceptos específicos.
    - *Ejemplo*: "¿Qué significa 'modalidad de gastos marginales'...?"
