@@ -51,46 +51,8 @@ marp: true
    - ✅ "Céntrate solo en los aspectos de internacionalización de la convocatoria 2024"
 
 ---
-## Tipos de prompts. Resumen por Temática y Enfoque
----
-1. **[Análisis Comparativo](#análisis-comparativo)**: Solicitudes para comparar información entre diferentes convocatorias, identificando similitudes y diferencias.
-   - *Ejemplo*: "Háblame sobre las diferencias reseñables entre las convocatorias..."
-
-2. **[Consulta Informativa](#consulta-informativa)**: Preguntas directas sobre datos específicos contenidos en la documentación.
-   - *Ejemplo*: "Quienes son los órganos competentes para la resolución..."
-   - *Ejemplo*: "Por favor, indica que proyectos de la Universidad de Alicante han recibido financiación"
-   - *Ejemplo*: "Se habla de costes marginales para su justificacion. ¿Qué son los costes marginales?"
-   
-3. **[Aclaración Conceptual](#aclaración-conceptual)**: Peticiones de explicación detallada sobre términos y conceptos específicos.
-   - *Ejemplo*: "¿Qué significa 'modalidad de gastos marginales'...?"
-
----
-
-4. **[Generación de Documentos](#generación-de-documentos)**: Solicitudes para crear contenido estructurado como correos, informes o resúmenes.
-   - *Ejemplo*: "Necesitamos enviar un correo a todos los equipos..."
-
-5. **[Planificación Temporal](#planificación-temporal)**: Peticiones relacionadas con cronogramas, plazos y fechas clave.
-   - *Ejemplo*: "Prepara una cronología detallada de fechas clave..."
-
-6. **[Diseño de Contenidos](#diseño-de-contenidos)**: Prompts para estructurar información con fines divulgativos o informativos.
-   - *Ejemplo*: "Prepara una estructura de contenidos para una web..."
-
----
-
-7. **[Análisis de Requisitos](#análisis-de-requisitos)**: Consultas enfocadas en criterios de elegibilidad y participación.
-   - *Ejemplo*: "Analiza en detalle los requisitos de elegibilidad..."
-
-8. **[Recomendaciones y Guías](#recomendaciones-y-guías)**: Solicitudes de consejos, checklists o mejores prácticas.
-   - *Ejemplo*: "Proporciona una lista de verificación con puntos clave..."
-
-9. **[Análisis Financiero](#análisis-financiero)**: Preguntas sobre aspectos económicos, presupuestos y justificación.
-   - *Ejemplo*: "¿Cuáles son las categorías de gasto permitidas...?"
-
-
-----
 
 # Ejemplos
-
 
 ----
 
@@ -98,7 +60,7 @@ marp: true
 
 - Háblame sobre las diferencias reseñables entre las convocatorias sobre las Modalidades y Tipos de Proyectos.
 
-- Cuales son las diferencias reseñables entre la convocatoria de los dos útimos años?, teniendo en cuenta las dos fuentes de video de youtube
+- Cuales son las diferencias reseñables entre la convocatoria de los dos útimos años, teniendo en cuenta las dos fuentes de video de youtube
 
 ## Consulta Informativa
 
@@ -146,3 +108,42 @@ marp: true
 ## Análisis Financiero
 
 - Imagina que estoy preparando el presupuesto para un proyecto de investigación de 3 años con un equipo de 6 personas. ¿Cuáles son las categorías de gasto permitidas en la convocatoria 2024? ¿Qué limitaciones existen para cada categoría? Proporciona recomendaciones para optimizar el presupuesto según las normas de la convocatoria actual.
+
+---
+## Tipos de prompts. Resumen por Temática y Enfoque
+---
+1. **[Análisis Comparativo](#análisis-comparativo)**: Solicitudes para comparar información entre diferentes convocatorias, identificando similitudes y diferencias.
+   - *Ejemplo*: "Háblame sobre las diferencias reseñables entre las convocatorias..."
+
+2. **[Consulta Informativa](#consulta-informativa)**: Preguntas directas sobre datos específicos contenidos en la documentación.
+   - *Ejemplo*: "Quienes son los órganos competentes para la resolución..."
+   - *Ejemplo*: "Por favor, indica que proyectos de la Universidad de Alicante han recibido financiación"
+   - *Ejemplo*: "Se habla de costes marginales para su justificacion. ¿Qué son los costes marginales?"
+   
+3. **[Aclaración Conceptual](#aclaración-conceptual)**: Peticiones de explicación detallada sobre términos y conceptos específicos.
+   - *Ejemplo*: "¿Qué significa 'modalidad de gastos marginales'...?"
+
+---
+
+4. **[Generación de Documentos](#generación-de-documentos)**: Solicitudes para crear contenido estructurado como correos, informes o resúmenes.
+   - *Ejemplo*: "Necesitamos enviar un correo a todos los equipos..."
+
+5. **[Planificación Temporal](#planificación-temporal)**: Peticiones relacionadas con cronogramas, plazos y fechas clave.
+   - *Ejemplo*: "Prepara una cronología detallada de fechas clave..."
+
+6. **[Diseño de Contenidos](#diseño-de-contenidos)**: Prompts para estructurar información con fines divulgativos o informativos.
+   - *Ejemplo*: "Prepara una estructura de contenidos para una web..."
+
+---
+
+7. **[Análisis de Requisitos](#análisis-de-requisitos)**: Consultas enfocadas en criterios de elegibilidad y participación.
+   - *Ejemplo*: "Analiza en detalle los requisitos de elegibilidad..."
+
+8. **[Recomendaciones y Guías](#recomendaciones-y-guías)**: Solicitudes de consejos, checklists o mejores prácticas.
+   - *Ejemplo*: "Proporciona una lista de verificación con puntos clave..."
+
+9. **[Análisis Financiero](#análisis-financiero)**: Preguntas sobre aspectos económicos, presupuestos y justificación.
+   - *Ejemplo*: "¿Cuáles son las categorías de gasto permitidas...?"
+
+
+----
