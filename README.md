@@ -45,6 +45,7 @@ Para más detalles, consulte la [presentación completa sobre Fuentes](presentac
 
 ### Convocatoria 2023
 - [Convocatoria oficial](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2023)
+- [Fichero PDF correcto](documentos/Convocatoria-2023-fichero-correcto.pdf)
 - [Orden de bases](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2023/orden-bases)
 - [Tramitación de la ayuda](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2023/tramitacion-ayuda-0)
 - [Resolución de concesión](https://www.aei.gob.es/sites/default/files/convocatory_info/2024-07/PID2023-PRP-Contratos-Predoctorales.pdf)
