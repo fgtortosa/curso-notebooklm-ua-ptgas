@@ -59,7 +59,8 @@ marp: true
 2. **[Consulta Informativa](#consulta-informativa)**: Preguntas directas sobre datos específicos contenidos en la documentación.
    - *Ejemplo*: "Quienes son los órganos competentes para la resolución..."
    - *Ejemplo*: "Por favor, indica que proyectos de la Universidad de Alicante han recibido financiación"
-
+   - *Ejemplo*: "Se habla de costes marginales para su justificacion. ¿Qué son los costes marginales?"
+   
 3. **[Aclaración Conceptual](#aclaración-conceptual)**: Peticiones de explicación detallada sobre términos y conceptos específicos.
    - *Ejemplo*: "¿Qué significa 'modalidad de gastos marginales'...?"
 
