@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "repo_id": "b831936f-96a4-4fce-a509-1edef11894e6",
+  "short_name": "curso-notebooklm-ua-ptgas",
+  "display_name": "Repositorio curso-notebooklm-ua-ptgas",
+  "description": "Código fuente y productos mantenidos en el repositorio curso-notebooklm-ua-ptgas.",
+  "activated_on": "2026-09-27",
+  "products": [
+    {
+      "id": "curso-notebooklm-ua-ptgas",
+      "canonical_name": "curso-notebooklm-ua-ptgas",
+      "display_name": "curso-notebooklm-ua-ptgas",
+      "description": "Producto herramienta mantenido en este repositorio.",
+      "kind": "herramienta"
+    }
+  ]
+}

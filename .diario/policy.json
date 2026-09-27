@@ -1,0 +1,12 @@
+{
+  "policy_version": "ua-v1",
+  "classes": ["decision", "cambio", "version"],
+  "change_kinds": ["funcionalidad", "correccion", "mantenimiento", "documentacion"],
+  "version_reasons": ["funcionalidad", "correccion", "dependencias", "empaquetado", "alineacion"],
+  "product_kinds": ["aplicacion", "npm", "nuget", "herramienta", "plantilla"],
+  "areas": ["arquitectura", "autenticacion", "autorizacion", "datos", "interfaz", "integracion", "build", "distribucion", "observabilidad", "documentacion", "seguridad"],
+  "audiences": ["consumidores", "mantenedores", "responsable"],
+  "compatibility": ["compatible", "incompatible", "desconocida", "no-aplica"],
+  "validation_states": ["comprobada", "parcial", "no-verificada"],
+  "limits": {"document_bytes": 65536, "title_chars": 140, "summary_chars": 600, "reason_chars": 1200, "areas": 3}
+}
